@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Carlos/Documents/GitHub/P2_FishingMinigame/Content/MenuPrincipal.umap",
+				"C:/Users/Carlos/Documents/GitHub/P2_FishingMinigame/Content/Menu_Principal.uasset",
+				"C:/Users/Carlos/Documents/GitHub/P2_FishingMinigame/Content/FondoMenu.uasset",
+				"C:/Users/Carlos/Documents/GitHub/P2_FishingMinigame/Content/MenuPausa.uasset",
+				"C:/Users/Carlos/Documents/GitHub/P2_FishingMinigame/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
 				"D:/1-Uni/4to/Motors de Jocs/Projects/P2_JocDePesca/Content/StarterContent/Architecture/Floor_400x400.uasset"
 			]
 		}
